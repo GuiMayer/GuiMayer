@@ -2,7 +2,7 @@
 
 Junior software developer focused on **C#/.NET, REST APIs, and automated testing**, with experience in TypeScript, React, and PostgreSQL. Currently supporting enterprise ERPs at WLE Soluções and studying Systems Analysis and Development at IFPR.
 
-I’m also interested in **game development**, particularly gameplay programming and rules engines built with C# and Godot.
+I’m also interested in game development, particularly gameplay programming and rules engines built with C# and Godot.
 
 **Curitiba, Brazil · Open to remote opportunities · Fluent in English**
 
