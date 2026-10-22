@@ -2,6 +2,8 @@
 
 Junior software developer focused on **C#/.NET, REST APIs, and automated testing**, with TypeScript/React and PostgreSQL experience. Currently supporting enterprise ERPs at WLE Soluções and studying Systems Analysis and Development at IFPR.
 
+Interested in **game development**, especially gameplay programming, rules engines, and automated testing with C# and Godot.
+
 Based in **Curitiba, Brazil · Open to remote work · Fluent English**.
 
 - [ERP Pousada](https://github.com/GuiMayer/erp-pousada) — Hospitality management ERP inspired by real operational workflows: reservations, point of sale, inventory, and blind cash reconciliation. Built with Next.js, TypeScript, PostgreSQL, and Prisma.
